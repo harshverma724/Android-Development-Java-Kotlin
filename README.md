@@ -7,4 +7,4 @@ I am eagerly looking forward to laying a strong foundation in mobile app develop
 # Journey Begins
 
 - (26-06-2024) Day 1: Basic knowledge of Java, All Basic Concepts. 
-- (27-06-2024) Day 2: More Concepts.
+- (27-06-2024) Day 2: More Concepts of Java.
