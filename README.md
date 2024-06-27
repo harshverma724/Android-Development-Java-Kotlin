@@ -5,3 +5,6 @@ I'm thrilled to share that I have embarked on an exciting journey to master Andr
 I am eagerly looking forward to laying a strong foundation in mobile app development and applying this knowledge to create innovative and impactful Android applications. Thank you for your support as I take on this new challenge!
 
 # Journey Begins
+
+- (26-06-2024) Day 1: Basic knowledge of Java, All Basic Concepts. 
+- (15-05-2024) Day 2: Basic fu
