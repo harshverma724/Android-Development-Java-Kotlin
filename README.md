@@ -23,7 +23,6 @@ I am eagerly looking forward to laying a strong foundation in mobile app develop
 - (10-07-2024) Day 16:
 - (03-07-2024) Day 9:
 - (04-07-2024) Day 10:
-- (05-07-2024) Day 11:
 - (06-07-2024) Day 12:
 - (07-07-2024) Day 13:
 - (08-07-2024) Day 14:
