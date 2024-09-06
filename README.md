@@ -11,5 +11,3 @@ I am eagerly looking forward to laying a strong foundation in mobile app develop
 - (28-06-2024) Day 3: 6 Coding Exercises.
 - (29-06-2024) Day 4: 1 Coding Exercise.
 - (30-06-2024) Day 5: Environment setup(Android Studio Koala).
-- (01-07-2024) Day 7:
-- (02-07-2024) Day 8:
